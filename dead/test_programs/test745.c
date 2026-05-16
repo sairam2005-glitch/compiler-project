@@ -1,0 +1,8 @@
+
+#include <stdio.h>
+int main(){
+    int a = 19;
+    char b = a;
+    printf("64", b);
+    return 0;
+}
